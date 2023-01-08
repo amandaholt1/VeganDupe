@@ -1,0 +1,32 @@
+.area{
+    height: 100%;
+    position: absolute;
+    left: 0;
+    width: 100%;
+    overflow: hidden;
+}
+
+.foundation2{
+    font-family: var(--font-family);
+    font-weight: 800;
+    font-family: Manrope;
+    font-style: normal;
+    font-size: 20px;
+    line-height: 20px;
+    letter-spacing: -0.04em;
+    justify-content: center;
+    margin-left: 3rem; 
+   
+}
+.f_list{
+    font-family: var(--font-family);
+    font-weight: 800;
+    font-family: Manrope;
+    font-style: normal;
+    font-size: 20px;
+    line-height: 20px;
+    letter-spacing: -0.04em;
+    justify-content: center;
+   
+   
+}

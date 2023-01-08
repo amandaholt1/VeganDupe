@@ -1,0 +1,286 @@
+.area{
+    height: 100%;
+    position: absolute;
+    left: 0;
+    width: 100%;
+    overflow: hidden;
+}
+.face{
+    display: flex;
+    font-family: var(--font-family);
+    font-weight: 800;
+    font-family: Manrope;
+    font-style: normal;
+    font-size: 62px;
+    line-height: 75px;
+    letter-spacing: -0.04em;
+    margin-left: 10rem;
+}
+.foundation{
+    font-family: var(--font-family);
+    font-weight: 800;
+    font-family: Manrope;
+    font-style: normal;
+    font-size: 20px;
+    line-height: 20px;
+    letter-spacing: -0.04em;
+    justify-content: center;
+    margin-left: -9rem;  
+}
+.foundation_pic{
+    display: flex;
+    justify-content: center;
+    width: 11rem;
+    height: 11rem;
+    flex: 1;
+    margin-left: -2rem;
+    margin-top: 6rem;
+}
+.concealer{
+    font-family: var(--font-family);
+    font-weight: 800;
+    font-family: Manrope;
+    font-style: normal;
+    font-size: 20px;
+    line-height: 20px;
+    letter-spacing: -0.04em;
+    margin-left: 6rem;
+    justify-content: center;
+}
+.concealer_pic{
+    display: flex;
+    justify-content: center;
+    width: 11rem;
+    height: 11rem;
+    flex: 1;
+    margin-left: -2rem;
+    margin-top: 6rem;
+}
+.contour{
+    font-family: var(--font-family);
+    font-weight: 800;
+    font-family: Manrope;
+    font-style: normal;
+    font-size: 20px;
+    line-height: 20px;
+    letter-spacing: -0.04em;
+    margin-left: 6rem;
+    justify-content: center;
+}
+.contour_pic{
+    display: flex;
+    justify-content: center;
+    width: 11rem;
+    height: 11rem;
+    flex: 1;
+    margin-left: -2rem;
+    margin-top: 6rem;
+}
+.blush{
+    font-family: var(--font-family);
+    font-weight: 800;
+    font-family: Manrope;
+    font-style: normal;
+    font-size: 20px;
+    line-height: 20px;
+    letter-spacing: -0.04em;
+    margin-left: 6rem;
+    justify-content: center;
+}
+.blush_pic{
+    display: flex;
+    justify-content: center;
+    width: 11rem;
+    height: 11rem;
+    flex: 1;
+    margin-left: -2rem;
+    margin-top: 6rem;
+}
+.eyes{
+    font-family: var(--font-family);
+    font-weight: 800;
+    font-family: Manrope;
+    font-style: normal;
+    font-size: 62px;
+    line-height: 75px;
+    letter-spacing: -0.04em;
+    margin-left: 10rem;
+    margin-top: 3rem;
+    display: flex;
+}
+.palette{
+    font-family: var(--font-family);
+    font-weight: 800;
+    font-family: Manrope;
+    font-style: normal;
+    font-size: 20px;
+    line-height: 20px;
+    letter-spacing: -0.04em;
+    justify-content: center;
+    margin-left: -9rem;  
+    margin-top: 6rem;  
+}
+.palette_pic{
+    display: flex;
+    justify-content: center;
+    width: 11rem;
+    height: 11rem;
+    flex: 1;
+    margin-left: -2rem;
+    margin-top: 1rem;
+}
+.mascara{
+    font-family: var(--font-family);
+    font-weight: 800;
+    font-family: Manrope;
+    font-style: normal;
+    font-size: 20px;
+    line-height: 20px;
+    letter-spacing: -0.04em;
+    margin-left: 6rem;  
+    margin-top: 6rem;
+    justify-content: center;
+}
+.mascara_pic{
+    display: flex;
+    justify-content: center;
+    width: 11rem;
+    height: 11rem;
+    flex: 1;
+    margin-left: -2rem;
+
+}
+.liner{
+    font-family: var(--font-family);
+    font-weight: 800;
+    font-family: Manrope;
+    font-style: normal;
+    font-size: 20px;
+    line-height: 20px;
+    letter-spacing: -0.04em;
+    margin-left: 6rem;
+    justify-content: center;
+}
+.liner_pic{
+    display: flex;
+    justify-content: center;
+    width: 11rem;
+    height: 11rem;
+    flex: 1;
+    margin-left: -2rem;
+    margin-top: 6rem;
+}
+.brows{
+    font-family: var(--font-family);
+    font-weight: 800;
+    font-family: Manrope;
+    font-style: normal;
+    font-size: 20px;
+    line-height: 20px;
+    letter-spacing: -0.04em;
+    margin-left: 6rem;
+    justify-content: center;
+}
+.brows_pic{
+    display: flex;
+    justify-content: center;
+    width: 11rem;
+    height: 11rem;
+    flex: 1;
+    margin-left: -2rem;
+    margin-top: 6rem;
+}
+.lips{
+    font-family: var(--font-family);
+    font-weight: 800;
+    font-family: Manrope;
+    font-style: normal;
+    font-size: 62px;
+    line-height: 75px;
+    letter-spacing: -0.04em;
+    margin-left: 10rem;
+    margin-top: 3rem;
+    display: flex;
+}
+.stick{
+    font-family: var(--font-family);
+    font-weight: 800;
+    font-family: Manrope;
+    font-style: normal;
+    font-size: 20px;
+    line-height: 20px;
+    letter-spacing: -0.04em;
+    justify-content: center;
+    margin-left: -9rem;  
+    margin-top: 5.5rem;
+   
+}
+.stick_pic{
+    display: flex;
+    justify-content: center;
+    width: 11rem;
+    height: 11rem;
+    flex: 1;
+    margin-left: -2rem;
+    
+}
+.lipliner{
+    font-family: var(--font-family);
+    font-weight: 800;
+    font-family: Manrope;
+    font-style: normal;
+    font-size: 20px;
+    line-height: 20px;
+    letter-spacing: -0.04em;
+    margin-left: 6rem;  
+    margin-top: 5.5rem;
+    justify-content: center;
+}
+.lipliner_pic{
+    display: flex;
+    justify-content: center;
+    width: 11rem;
+    height: 11rem;
+    flex: 1;
+    margin-left: -2rem;
+}
+.gloss{
+    font-family: var(--font-family);
+    font-weight: 800;
+    font-family: Manrope;
+    font-style: normal;
+    font-size: 20px;
+    line-height: 20px;
+    letter-spacing: -0.04em;
+    margin-left: 6rem;
+    justify-content: center;
+}
+.gloss_pic{
+    display: flex;
+    justify-content: center;
+    width: 11rem;
+    height: 11rem;
+    flex: 1;
+    margin-left: -2rem;
+    margin-top: 5.5rem;
+}
+.liquid{
+    font-family: var(--font-family);
+    font-weight: 800;
+    font-family: Manrope;
+    font-style: normal;
+    font-size: 20px;
+    line-height: 20px;
+    letter-spacing: -0.04em;
+    margin-left: 6rem;
+    justify-content: center;
+}
+.liquid_pic{
+    display: flex;
+    justify-content: center;
+    width: 11rem;
+    height: 11rem;
+    flex: 1;
+    margin-left: -2rem;
+    margin-top: 5.5rem;
+}
